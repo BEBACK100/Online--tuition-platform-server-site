@@ -1,0 +1,34 @@
+[
+    {
+        "id": "01",
+        "name": "physics"
+    },
+    {
+        "id": "02",
+        "name": "Chemistry"
+    },
+    {
+        "id": "03",
+        "name": "Math"
+    },
+    {
+        "id": "04",
+        "name": "Biology"
+    },
+    {
+        "id": "05",
+        "name": "ICT"
+    },
+    {
+        "id": "06",
+        "name": "Programming language"
+    },
+    {
+        "id": "07",
+        "name": "english"
+    },
+    {
+        "id": "08",
+        "name": "all subject"
+    }
+]
